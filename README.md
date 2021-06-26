@@ -19,4 +19,10 @@ One of the main objectives of this code refactor is to consolidate the CSS eleme
 1. Removed classes .benefit-lead, .benefit-brand, .benefit-cost and replaced them with a single .benefit-detail class. Edited the HTML code that references the old classes to match the new one.
 2. Removed classes .search-engine-optimization, .online-reputation-management, .social-media-marketing and replaced them with a single .content-description class. Edited the HTML code that references the old classes to match the new one.
 
+## Link to completed application:
 
+https://micah41224.github.io/week-one-homework/
+
+## Screenshots:
+
+![Completed Application Screenshot](assests/screenshots/Final_Screenshot.png)
