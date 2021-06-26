@@ -25,4 +25,4 @@ https://micah41224.github.io/week-one-homework/
 
 ## Screenshots:
 
-![Completed Application Screenshot](assests/screenshots/Final_Screenshot.png)
+![Completed Application Screenshot](assets/screenshots/Final_Screenshot.png)
